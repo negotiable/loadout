@@ -3,48 +3,48 @@ permalink: /
 layout: default
 ---
 
-<img src="img/small_DSC4199.jpg" width="75%" height="auto" />
+!(img/small_DSC4199.jpg)
 
 ***  
 
-<img src="img/cube_wide.jpg" width="75%" height="auto" />
+!(img/cube_wide.jpg)
 
 at Paid  
 with Nick Strobelt  
 
 ***  
 
-<img src="img/R0000131_2_2.jpg" width="75%" height="auto" />
+!(img/R0000131_2_2.jpg)
 
 at Prairie Underground  
 
 ***  
 
-<img src="img/negligence_tort.jpg" width="75%" height="auto" />
+!(img/negligence_tort.jpg)
 
 at Veronica  
 
 ***  
 
-<img src="img/phreak-lockwood-2.JPG" width="75%" height="auto" />
+!(img/phreak-lockwood-2.JPG)
 
 at Yale Union  
 
 ***  
 
-<img src="img/DSC8376.jpg" width="75%" height="auto" />
+!(img/DSC8376.jpg)
 
 at Henry  
 
 ***  
 
-<img src="img/DSC01510.jpg" width="50%" height="auto" />
+!(img/DSC01510.jpg)
 
 at San Francisco Art Institute  
 
 ***  
 
-<img src="img/DSC01145.jpg" width="75%" height="auto" />
+!(img/DSC01145.jpg)
 
 at Jacob Lawrence  
 
