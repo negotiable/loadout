@@ -9,10 +9,8 @@ layout: default
 
 <img src="img/cube_wide.jpg" width="75%" height="auto" />
 
-at Paid 
+######   at Paid 
 with Nick Strobelt
-
-# 
 
 <img src="img/R0000131_2_2.jpg" width="75%" height="auto" />
 
