@@ -32,6 +32,10 @@ at Yale Union
 
 ***  
 
+![](/img/2019-07-29-0060.png)
+ 
+***  
+
 ![](/img/DSC8376.jpg)
 
 at Henry  
