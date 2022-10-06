@@ -3,7 +3,7 @@ permalink: /
 layout: default
 ---
 
-![](/img/flying_without_tears.jpg.jpg)
+![](/img/flying_without_tears.jpg)
 
 at Collision's Craft
 
