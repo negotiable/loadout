@@ -3,9 +3,11 @@ permalink: /
 layout: default
 ---
 
-![](/img/small_DSC4199.jpg)
+![](/img/flying_without_tears.jpg.jpg)
 
-***  
+at Collision's Craft
+
+*** 
 
 ![](/img/cube_wide.jpg)
 
@@ -30,10 +32,6 @@ at Veronica
 
 at Yale Union  
 
-***  
-
-![](/img/2019-07-29-0060.png)
- 
 ***  
 
 ![](/img/DSC8376.jpg)
